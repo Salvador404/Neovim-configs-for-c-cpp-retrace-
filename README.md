@@ -56,4 +56,7 @@ Save the config file in the nvim folder. Make sure to back up your previous conf
 
 This configuration has been tested on Windows 10/11.
 
+<b>In some cases, you may encounter a timeout while installing prerequisites.In these cases,
+repeat the previous command a few more times and let the system find as many available torrents as possible.
+Otherwise, use DNS or VPN.</b>
 
