@@ -1,4 +1,4 @@
-#My nvim configs:
+# My nvim configs:
 
 💯 Optimized for code retracing, especially c/cpp and python.
 
@@ -24,7 +24,7 @@
 
 Don't forget to write(:w) before compiling.
 
-###🧮 Requirements:
+### 🧮 Requirements:
 
 1- NeoVIM version + 0.9 
 
@@ -37,7 +37,7 @@ Don't forget to write(:w) before compiling.
 5- Windows Terminal or PowerShell
 
 
-####Attention
+#### Attention
 
 To install gcc  and g++ on Windows, you must first install MSYS2(first install it and use its terminal) :
 ```bash
