@@ -1,14 +1,17 @@
 My nvim configs:
-💯 Optimized for code retracing, especially c/cpp and python.
 
-📋 File tree view-->Ctrl+n ;Suitable for multi-file projects and code.
-![Screenshot (148)](https://github.com/user-attachments/assets/e58f2605-6af2-4c4d-8934-35fb32c21187)
+💯 Optimized for code retracing, especially c/cpp and python.
 
 📋Syntax highlighting
 
 📋Autocomplete with the ability to disable
 
 📋Dedicated switch for internal terminal-->Ctrl+\
+
+📋 File tree view-->Ctrl+n ;Suitable for multi-file projects and code.
+![Screenshot (148)](https://github.com/user-attachments/assets/e58f2605-6af2-4c4d-8934-35fb32c21187)
+
+
 
 📋Dedicated switch for compilation-->\+c
 
@@ -19,6 +22,7 @@ My nvim configs:
 ![Screenshot (150)](https://github.com/user-attachments/assets/28a93a37-9949-492c-9054-4b65f56a4155)
 
 Don't forget to write(:w) before compiling.
+
 🧮 Requirements:
 
 1- NeoVIM version + 0.9 
