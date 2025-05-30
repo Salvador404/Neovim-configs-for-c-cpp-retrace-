@@ -6,7 +6,7 @@ My nvim configs:
 
 📋Autocomplete with the ability to disable
 
-📋Dedicated switch for internal terminal-->Ctrl+\
+📋Dedicated switch for internal terminal:  Ctrl+\
 
 📋 File tree view-->Ctrl+n ; Suitable for multi-file projects and code.
 
@@ -14,11 +14,11 @@ My nvim configs:
 
 
 
-📋Dedicated switch for compilation--> "\+c"
+📋Dedicated switch for compilation: \+c
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/d37c13d2-88bf-430c-a270-a7ad60600621)
 
-📋Dedicated switch for execution--> "\"+c
+📋Dedicated switch for execution: \+c
 
 ![Screenshot (150)](https://github.com/user-attachments/assets/28a93a37-9949-492c-9054-4b65f56a4155)
 
